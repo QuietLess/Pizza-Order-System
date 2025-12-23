@@ -10,7 +10,7 @@ A simple pizza ordering notebook that uses a menu + decorator pattern to build a
 - Appends orders to `Orders_Database.csv`
 
 ## Files
-- `Pizza_Sipariþ_Sistemi.ipynb` - Main notebook
+- `Pizza_SipariÅŸ_Sistemi.ipynb` - Main notebook
 - `Menu.txt` - Generated menu (created when you run the notebook)
 - `Orders_Database.csv` - Order log (created/appended at runtime)
 
@@ -18,11 +18,11 @@ A simple pizza ordering notebook that uses a menu + decorator pattern to build a
 Option 1: Jupyter (recommended)
 
 ```powershell
-jupyter notebook "Pizza_Sipariþ_Sistemi.ipynb"
+jupyter notebook "Pizza_SipariÅŸ_Sistemi.ipynb"
 ```
 
 Option 2: Google Colab
-- Upload `Pizza_Sipariþ_Sistemi.ipynb` to Colab and run all cells.
+- Upload `Pizza_SipariÅŸ_Sistemi.ipynb` to Colab and run all cells.
 
 ## Orders_Database.csv columns
 Each row has:
@@ -34,3 +34,4 @@ name, tc, cc_num, cc_cvv, timestamp, total_cost, description
 ## Notes
 - The notebook expects interactive input (menu selection and customer info).
 - Output files are created in the same folder as the notebook.
+
